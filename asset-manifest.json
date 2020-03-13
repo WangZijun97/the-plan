@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-plan/static/css/main.d35dd769.chunk.css",
+    "main.js": "/the-plan/static/js/main.438f0e37.chunk.js",
+    "main.js.map": "/the-plan/static/js/main.438f0e37.chunk.js.map",
+    "runtime-main.js": "/the-plan/static/js/runtime-main.f5f3f57c.js",
+    "runtime-main.js.map": "/the-plan/static/js/runtime-main.f5f3f57c.js.map",
+    "static/js/2.e1dd36c4.chunk.js": "/the-plan/static/js/2.e1dd36c4.chunk.js",
+    "static/js/2.e1dd36c4.chunk.js.map": "/the-plan/static/js/2.e1dd36c4.chunk.js.map",
+    "index.html": "/the-plan/index.html",
+    "precache-manifest.b7404f8635b4da2a45476a79756af7bd.js": "/the-plan/precache-manifest.b7404f8635b4da2a45476a79756af7bd.js",
+    "service-worker.js": "/the-plan/service-worker.js",
+    "static/css/main.d35dd769.chunk.css.map": "/the-plan/static/css/main.d35dd769.chunk.css.map",
+    "static/js/2.e1dd36c4.chunk.js.LICENSE.txt": "/the-plan/static/js/2.e1dd36c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/the-plan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f3f57c.js",
+    "static/js/2.e1dd36c4.chunk.js",
+    "static/css/main.d35dd769.chunk.css",
+    "static/js/main.438f0e37.chunk.js"
+  ]
+}
